@@ -1,0 +1,47 @@
+body {
+    background-color: coral;
+}
+
+.main {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    overflow: hidden;
+    float: left;
+    margin-right: 50px;
+}
+
+.size {
+    
+}
+
+.white {
+    background-color: white;
+    position: relative;
+    margin-top: 50px;
+}
+
+.green {
+    background-color: green;
+    position: absolute;
+    margin-left: -220px;
+}
+
+
+
+
+
+
+
+
+
